@@ -1,0 +1,11 @@
+*{
+  font-family: 'Roboto Mono', monospace;
+
+}
+
+.bor{
+  border: 2px solid blue;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 5px;
+}
